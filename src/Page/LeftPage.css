@@ -1,0 +1,99 @@
+.left-container{
+    margin-top: 6%;
+}
+
+.title-name{
+    opacity: 1;
+    font-family: Arial;
+    font-size: xxx-large;
+}
+
+.title-description{
+    font-family: Arial;
+    font-size: large;
+    opacity: 0.8;
+}
+
+.title-about{
+    margin-top: 12px;
+    font-family: Arial;
+    font-size: medium;
+    width:60%;
+    opacity: 0.6;
+}
+
+.icons-container{
+    height: 100px; 
+    position: fixed; 
+    bottom:0%;
+}
+
+.icon-shape{
+    width:35px;
+    margin-right: 10px;
+    filter: invert(100%);
+}
+
+.horizontal-line{
+    border-bottom: 2px solid #F5F5F5;
+    display: inline-block;
+    width: 30px; /* Adjust the width as needed */
+    margin-right: 10px; /* Adjust the margin as needed */
+    opacity: 0.8;
+    transition: border-color 0.3 ease;
+}
+
+.route-link:hover{
+    text-transform: uppercase;
+    text-decoration: none;
+    color: white;
+    display:flex;
+    align-items: center;
+    cursor: grab;
+    font-weight: bold;
+}
+
+
+
+.horizontal-line-active{
+    border-bottom: 2px solid #FEFEFE;
+    display: inline-block;
+    width: 75px; /* Adjust the width as needed */
+    margin-right: 10px; /* Adjust the margin as needed */
+}
+
+.route-list{
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.route-link{
+    text-transform: uppercase;
+    text-decoration: none;
+    color: white;
+    display:flex;
+    align-items: center;
+    cursor: grab;
+}
+
+.active{
+    text-transform: uppercase;
+    text-decoration: none;
+    color: white;
+    display:flex;
+    align-items: center;
+    cursor: grab;
+    font-weight: bold;
+}
+
+.route-link:focus{
+    outline:none;
+}
+
+.route-link:active{
+    outline:none;
+}
+
+.website-path{
+    margin-top: 50px;
+}

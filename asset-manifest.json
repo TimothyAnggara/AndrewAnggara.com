@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AndrewAnggara.com/static/css/main.b94f0c90.css",
+    "main.js": "/AndrewAnggara.com/static/js/main.e79306d3.js",
+    "static/media/ShopCart.png": "/AndrewAnggara.com/static/media/ShopCart.482dfd0931c113efd71c.png",
+    "static/media/AndrewAnggara.png": "/AndrewAnggara.com/static/media/AndrewAnggara.05a6763bd0966d3263a4.png",
+    "static/media/resume.pdf": "/AndrewAnggara.com/static/media/resume.b604516287a05c5e72e3.pdf",
+    "static/media/XXLChess.png": "/AndrewAnggara.com/static/media/XXLChess.5e32627db0c7383d88fe.png",
+    "static/media/instagram-svgrepo-com.svg": "/AndrewAnggara.com/static/media/instagram-svgrepo-com.0dd482fa842bd7851f54ff91a01be94a.svg",
+    "static/media/linkedin-svgrepo-com.svg": "/AndrewAnggara.com/static/media/linkedin-svgrepo-com.44906b3d6741f28a922941668a2ed244.svg",
+    "static/media/github-142-svgrepo-com.svg": "/AndrewAnggara.com/static/media/github-142-svgrepo-com.5531be85d7a8d6f333e5c7136944a022.svg",
+    "index.html": "/AndrewAnggara.com/index.html",
+    "static/media/arrow-right-up.svg": "/AndrewAnggara.com/static/media/arrow-right-up.2207ee168fd4a713fa036f2c920c2c6e.svg",
+    "static/media/arrow-right.svg": "/AndrewAnggara.com/static/media/arrow-right.8a91d00ab0dfa7338b04bd3377f329c6.svg",
+    "main.b94f0c90.css.map": "/AndrewAnggara.com/static/css/main.b94f0c90.css.map",
+    "main.e79306d3.js.map": "/AndrewAnggara.com/static/js/main.e79306d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b94f0c90.css",
+    "static/js/main.e79306d3.js"
+  ]
+}
